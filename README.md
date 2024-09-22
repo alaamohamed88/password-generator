@@ -1,4 +1,4 @@
-#Password Generator
+# Password Generator
 
 password-generator is a Python-based password generator that creates strong, random passwords with customizable length and a balanced character composition. It ensures security by distributing the password's characters into 30% uppercase letters, 30% lowercase letters, 20% digits, and 20% special characters. This generator can handle both short and long password lengths, starting from a minimum of 8 characters.
 
